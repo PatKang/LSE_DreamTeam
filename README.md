@@ -7,7 +7,7 @@ _____
 
 The EDA Tableau Cycling Demographic and Borough Analysis Zip file contains Tableau workbooks that we used for exploratory data analysis into the infrastructure factors impacting cycling rates, as well as any demographic considerations.
 
-The Crime Data Excel, Borough Cycling Data Excel, Demographic Data Excel, and Cycling Casualty Data Excel zip folder contain the excel files that we used to create the Tableau views in the EDA Tableau Cycling Demographic and Borough Analysis Zip files.
+The Project External Data zip file contains subfolders containing The Crime Data Excel, Borough Cycling Data Excel, Demographic Data Excel, and Cycling Casualty Data Excel. The excel files in those folders were used to create the Tableau views in the EDA Tableau Cycling Demographic and Borough Analysis Zip files.
 
 _____
 
